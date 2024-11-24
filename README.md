@@ -3,6 +3,7 @@
   - 🌱 I’m currently learning 3D modeling.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tailup7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tailup7)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 tailup7/tailup7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
