@@ -3,7 +3,7 @@
   - 🌱 I’m currently learning 3D modeling and CFD.
 
 <p align="left">
-  <a href="[http://qiita.com/aridome222](https://qiita.com/ononono73)">
+  <a href="https://qiita.com/ononono73">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ononono73/posts.svg" />
   </a>
 </p>
