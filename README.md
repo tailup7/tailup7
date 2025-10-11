@@ -1,7 +1,7 @@
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemw3eGtxdjh1MTN3ejM2cGpuNmwyamhmdXVodjR0bmh0OTVpZDhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XXQLShhzUuDQtlhydi/giphy.gif" width="40"> Hi There
 
   - 👨‍🎓 I'm a majoring in biofluid mechanics.
-  - 🌱 I’m currently learning 3D modeling and CFD.
+  - 🌱 I’m currently learning 3DCG.
 
 
 
