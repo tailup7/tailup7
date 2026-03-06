@@ -2,10 +2,12 @@
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemw3eGtxdjh1MTN3ejM2cGpuNmwyamhmdXVodjR0bmh0OTVpZDhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XXQLShhzUuDQtlhydi/giphy.gif" width="40"> Hi There
 -->
 
-# :t-rex: Hi There 
-  - I'm @tailup7.
+# :t-rex: Hi there, I'm tailup7.
+<!--
+  - During my studies, I specialized in CFD-based blood flow analysis and 3D modeling.
+<!--
   - :mortar_board: During my studies, I specialized in CFD-based blood flow analysis and 3D modeling.
-
+-->
 
 
 <p align="left">
