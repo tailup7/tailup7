@@ -11,7 +11,7 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tailup7&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-omega-ten-74.vercel.app/api/top-langs/?username=tailup7)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tailup7)](https://github.com/anuraghazra/github-readme-stats)
 
