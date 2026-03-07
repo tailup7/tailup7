@@ -16,6 +16,16 @@
   </a>
 </p>
 
+
+<!--
+# YouTuibeチャンネルのリンク
+<p align="left">
+  <a href="https://www.youtube.com/@tailup7">
+    <img height="20" src="https://img.icons8.com/color/48/youtube-play.png" />
+  </a>
+</p>
+-->
+
 [![Top Langs](https://github-readme-stats-omega-ten-74.vercel.app/api/top-langs/?username=tailup7&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats-omega-ten-74.vercel.app/api?username=tailup7&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
