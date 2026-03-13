@@ -14,7 +14,12 @@
   <a href="https://qiita.com/ononono73">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ononono73/posts.svg" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@tailup7">
+    <img height="20" src="https://img.shields.io/youtube/channel/views/UCQyiVCkjjdTN2OMY44bGAUw?label=YouTube" />
+  </a>          
 </p>
+
 
 
 <!--
