@@ -11,8 +11,8 @@
 
 
 <p align="left">
-  <a href="https://qiita.com/ononono73">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ononono73/posts.svg" />
+  <a href="https://qiita.com/tailup7" >
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tailup7/posts.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@tailup7">
